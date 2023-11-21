@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name "RP2040-Zero")(type "KiCad")(uri "${KIPRJMOD}/RP2040-Zero.pretty")(options "")(descr ""))
+  (lib (name "ghost")(type "KiCad")(uri "${KIPRJMOD}/ghost.pretty")(options "")(descr ""))
+)
