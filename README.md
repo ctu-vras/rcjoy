@@ -8,13 +8,13 @@ The receiverer mcu (RP2040) acts as usb hid joystick emulator, reads SBUS packet
 At this moment is communication one directional.
 
 # BoM
-  * ImmersionRC Ghost xLite Module
+  * ImmersionRC Ghost xLite Module  
    https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-xlite-module
-  * ImmersionRC Ghost Atto Receiver
+  * ImmersionRC Ghost Atto Receiver  
    https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-atto-receiver
-  * Teensy® 4.0 Development Board
+  * Teensy® 4.0 Development Board  
    https://www.pjrc.com/store/teensy40.html
-  * Waveshare RP2040-Zero
+  * Waveshare RP2040-Zero  
    https://www.waveshare.com/rp2040-zero.htm
   * Powerbank module  
    https://www.laskakit.cz/nabijecka-boost-pro-usb-powerbank-5v--usb-c/
