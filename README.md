@@ -8,6 +8,8 @@ The receiverer mcu (RP2040) acts as usb hid joystick emulator, reads SBUS packet
 At this moment is communication one directional.
 
 # BoM
+  * PS4 Dualshock 4 controller  
+   https://www.playstation.com/cs-cz/accessories/dualshock-4-wireless-controller/
   * ImmersionRC Ghost xLite Module  
    https://shop.orqafpv.com/products/immersionrc-immersionrc-ghost-xlite-module
   * ImmersionRC Ghost Atto Receiver  
