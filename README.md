@@ -1,6 +1,8 @@
 # rcjoy
 Boost gamepad control of ROS robots to kilometer ranges and 100% reliability. Throw away all your nano dongles :)
 
+![rcjoy](./pictures/rcjoy_1.jpg "rcjoy")
+
 # How it works
 The rcjoy is intended to be a drop in replacement of a wireless gamepad like xbox controller or Logitech F710.  
 The transmitter mcu (Teensy 4.0) acts as an usb host reading data from PS4 controller connected by wire, converts them to packets and send them via SBUS to tx module (ImmersionRC Ghost lite).  
